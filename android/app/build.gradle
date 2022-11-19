@@ -325,6 +325,8 @@ dependencies {
     } else {
         implementation jscFlavor
     }
+
+    // compile project 'react-native-sqlite-storage'
 }
 
 if (isNewArchitectureEnabled()) {
