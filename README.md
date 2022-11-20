@@ -10,6 +10,9 @@ Maria Angeline - 24060120140167
 
 # Usage
 1. Clone atau download repositori
+
 2. Install dependency dengan eksekusi perintah npm i pada command line
+
 3. Pastikan telah melakukan running Android Virtual Device (AVD) pada Android Studio
+
 4. Jalankan simulator dengan perintah npm run android
