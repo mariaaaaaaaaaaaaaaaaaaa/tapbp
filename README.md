@@ -2,11 +2,15 @@
 Form Development and Data Interaction menggunakan Hybrid Mobile Application Development
 
 # Anggota Kelompok:
-Dian Rospita - 24060120120014
-Marcella Komunita Pasaribu - 24060120120026
-Ari Norma Amayliani Wibowo - 24060120120032
-Hilma Nur Khasanah - 24060120140140
-Maria Angeline - 24060120140167
+1. Dian Rospita - 24060120120014
+
+2. Marcella Komunita Pasaribu - 24060120120026
+
+3. Ari Norma Amayliani Wibowo - 24060120120032
+
+4. Hilma Nur Khasanah - 24060120140140
+
+5. Maria Angeline - 24060120140167
 
 # Usage
 1. Clone atau download repositori
